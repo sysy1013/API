@@ -1,1 +1,0 @@
-aws s3 sync .\custom-API s3://hsu-db-bucket/django
